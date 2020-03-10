@@ -47,8 +47,10 @@ This will install all the packages you'll need for this project
 
 # Perform 
 Once done any of the above procedure open the terminal/CMD again in that particular folder and run command
+
 COMMAND
     node app.js 
+
 Then go to your Twitter account and check the updates.
 
 # Caution
